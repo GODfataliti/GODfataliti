@@ -29,6 +29,7 @@
 <div align="center">
    <h3 align="center"> Languages and Tools: </h3>
    <a align="center"><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
+   <a align="center"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
    <a align="middle"><img src="https://img.icons8.com/nolan/64/copyright.png"/></a>
    <a align="middle"><img src="https://img.icons8.com/nolan/64/javascript.png"/></a>
    <a align="middle"><img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
