@@ -15,8 +15,8 @@
 
 - Currenly in the 3rd year of Civil Engineering in Computer Science 😊
 - Learning Python & JavaScript
-# 👨🏻‍💻 Currently working on:
-<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+👨🏻‍💻 Currently working on:
+<a src="https://github.com/"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
