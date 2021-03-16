@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Jose 👋
 
 <!--
 **GODfataliti/GODfataliti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Fataliti's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODfataliti&count_private=true&show_icons=true&theme=radical)](https://github.com/GODfataliti/github-readme-stats)
+
+
 
