@@ -1,7 +1,7 @@
 
 <div align="center">
    <h1>
-      <img align="left" src="https://user-images.githubusercontent.com/49794011/111344331-0c36dc80-865b-11eb-8592-85abecac5393.png" width=50 height=50 />
+      <img align="middle" src="https://user-images.githubusercontent.com/49794011/111344331-0c36dc80-865b-11eb-8592-85abecac5393.png" width=65 height=65 />
       Hi there, I'm <a href="https://github.com/GODfataliti">José</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
