@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 
 <img align="middle" src="https://user-images.githubusercontent.com/49794011/111344331-0c36dc80-865b-11eb-8592-85abecac5393.png" />
 
+<img align="middle" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 
 
