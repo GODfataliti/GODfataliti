@@ -22,7 +22,7 @@
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/nolan/64/html-5.png"/></a>
 <a src="https://www.w3schools.com/python/"> <img src="https://img.icons8.com/nolan/64/python.png"/> </a>
 
-<div>
+<div align="center">
    <img align="right" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
    <img align="left" src="https://user-images.githubusercontent.com/49794011/111344331-0c36dc80-865b-11eb-8592-85abecac5393.png" />
 </div>
