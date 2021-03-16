@@ -44,6 +44,7 @@
    <a href="https://twitch.tv/fataliti" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/twitch.png"/></a>
    <a href="https://www.instagram.com/fataliti_joze/" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
    <a href="https://www.linkedin.com/in/fatalitigonzalezjose/" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/linkedin.png"/> </a>
+   <a href="https://steamcommunity.com/id/thepr0fataliti" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/steam--v2.png"/> </a>
 </div>
 
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
