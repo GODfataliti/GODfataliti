@@ -16,7 +16,7 @@
 - Currenly in the 3rd year of Civil Engineering in Computer Science 😊
 - Learning Python & JavaScript
 ### Currently working on:
-<a src="https://github.com/"><img src="https://img.icons8.com/nolan/80/github.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/nolan/64/javascript.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/nolan/64/html-5.png"/></a>
