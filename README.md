@@ -1,4 +1,4 @@
-### Hi, I'm José 👋
+### Hi, My name is José 👋
 
 <!--
 **GODfataliti/GODfataliti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
