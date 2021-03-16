@@ -17,10 +17,10 @@
 - Learning Python & JavaScript
 ### Currently working on:
 <a src="https://github.com/"><img src="https://img.icons8.com/nolan/80/github.png"/></a>
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<a src="https://www.w3schools.com/python/"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/nolan/64/javascript.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/nolan/64/html-5.png"/></a>
+<a src="https://www.w3schools.com/python/"> <img src="https://img.icons8.com/nolan/64/python.png"/> </a>
 
 
 
