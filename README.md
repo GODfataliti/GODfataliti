@@ -26,11 +26,15 @@
 - Currenly in the 3rd year of Civil Engineering in Computer Science 😊
 - Learning Python & JavaScript
 ----
-### To do list:
-- Learn React
-- Learn Angular
-- Learn VueJS
-- NOSQL
+### Languages and Tools:
+<a><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
+<a><img src="https://img.icons8.com/nolan/64/copyright.png"/></a>
+<a><img src="https://img.icons8.com/nolan/64/javascript.png"/></a>
+<a><img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
+<a><img src="https://img.icons8.com/nolan/64/html-5.png"/></a>
+<a><img src="https://img.icons8.com/nolan/64/python.png"/></a>
+<a><img src="https://img.icons8.com/nolan/64/mysql.png"/></a>
+<a><img src="https://img.icons8.com/nolan/64/sublime-text-new-logo.png"/> </a>
 
 <img align="middle" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
