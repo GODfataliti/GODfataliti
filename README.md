@@ -38,13 +38,13 @@
    <a align="middle"><img src="https://img.icons8.com/nolan/64/sublime-text-new-logo.png"/> </a>
 </div>
 
-<img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
 <div>
    <h3 align="center">         Social Media</h2>
    <a href="https://twitch.tv/fataliti" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/twitch.png"/></a>
    <a href="https://www.instagram.com/fataliti_joze/" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
    <a href="https://www.linkedin.com/in/fatalitigonzalezjose/" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/linkedin.png"/> </a>
 </div>
+
+<img align="middle" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
