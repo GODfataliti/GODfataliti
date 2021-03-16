@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Fataliti's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODfataliti&count_private=true&show_icons=true)](https://github.com/GODfataliti/github-readme-stats)
+[![Fataliti's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODfataliti&count_private=true&show_icons=true?theme=tokyonight)](https://github.com/GODfataliti/github-readme-stats)
 
