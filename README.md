@@ -18,7 +18,7 @@
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/nolan/64/javascript.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/nolan/64/html-5.png"/></a>
-<a src="https://www.w3schools.com/python/"> <img src="https://img.icons8.com/nolan/64/python.png"/> </a>
+<a src="https://www.python.org/"> <img src="https://img.icons8.com/nolan/64/python.png"/> </a>
 
 - Currenly in the 3rd year of Civil Engineering in Computer Science 😊
 - Learning Python & JavaScript
