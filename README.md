@@ -14,6 +14,7 @@
 </a>
 
 - Currenly in the 3rd year of Civil Engineering in Computer Science 😊
+- Learning Python and JavaScript 
 
 
 <img align="middle" src="https://user-images.githubusercontent.com/49794011/111344331-0c36dc80-865b-11eb-8592-85abecac5393.png" />
