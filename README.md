@@ -28,7 +28,7 @@
 ----
 <div>
    <h3 align="center"> Languages and Tools: </h3>
-   <a align="middle"><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
+   <a align="center"><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
    <a align="middle"><img src="https://img.icons8.com/nolan/64/copyright.png"/></a>
    <a align="middle"><img src="https://img.icons8.com/nolan/64/javascript.png"/></a>
    <a align="middle"><img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
@@ -42,9 +42,9 @@
 
 <div>
    <h3 align="center">         Social Media</h2>
-   <a align="middle" href="https://twitch.tv/fataliti" target="_blank"><img src="https://img.icons8.com/nolan/64/twitch.png"/></a>
-   <a align="middle" href="https://www.instagram.com/fataliti_joze/" target="_blank"><img src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
-   <a align="middle" href="https://www.linkedin.com/in/fatalitigonzalezjose/" target="_blank"><img src="https://img.icons8.com/nolan/64/linkedin.png"/> </a>
+   <a href="https://twitch.tv/fataliti" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/twitch.png"/></a>
+   <a href="https://www.instagram.com/fataliti_joze/" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
+   <a href="https://www.linkedin.com/in/fatalitigonzalezjose/" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/linkedin.png"/> </a>
 </div>
 
 
