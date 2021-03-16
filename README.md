@@ -25,7 +25,7 @@
 
 - Currenly in the 3rd year of Civil Engineering in Computer Science 😊
 - Learning Python & JavaScript
-
+----
 ### To do list:
 - Learn React
 - Learn Angular
