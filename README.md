@@ -47,6 +47,8 @@
    <a href="https://steamcommunity.com/id/thepr0fataliti" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/steam--v2.png"/> </a>
 </div>
 
+----
+<br/>
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
