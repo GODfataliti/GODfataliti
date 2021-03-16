@@ -46,6 +46,6 @@
    <a href="https://www.linkedin.com/in/fatalitigonzalezjose/" target="_blank"><img align="center" src="https://img.icons8.com/nolan/64/linkedin.png"/> </a>
 </div>
 
-<img align="middle" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
