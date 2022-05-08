@@ -19,7 +19,7 @@
    <h3><img width="35" src="https://img.icons8.com/nolan/64/working-with-a-laptop.png"/>Currently working on: </h3>
    <a src="https://github.com/"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
    <a src="https://www.javascript.com/"><img src="https://img.icons8.com/nolan/64/javascript.png"/></a>
-   <a src="https://reactjs.org/docs/getting-started.html"><img src="https://img.icons8.com/nolan/452/react-native.png"/></a>
+   <a src="https://reactjs.org/docs/getting-started.html"><img src="https://img.icons8.com/nolan/64/react-native.png"/></a>
    <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
    <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/nolan/64/html-5.png"/></a>
    <a src="https://www.python.org/"> <img src="https://img.icons8.com/nolan/64/python.png"/> </a>
@@ -34,7 +34,7 @@
 <div align="center">
    <h3 align="center"> Languages & Tools: </h3>
    <a align="center"><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
-   <a align="center"><img src="https://img.icons8.com/nolan/452/react-native.png"/></a>
+   <a align="center"><img src="https://img.icons8.com/nolan/64/react-native.png"/></a>
    <a align="center"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
    <a align="middle"><img src="https://img.icons8.com/nolan/64/copyright.png"/></a>
    <a align="middle"><img src="https://img.icons8.com/nolan/64/javascript.png"/></a>
