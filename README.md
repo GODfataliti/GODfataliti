@@ -33,16 +33,17 @@
 ----
 <div align="center">
    <h3 align="center"> Languages & Tools: </h3>
-   <a align="center"><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
-   <a align="center"><img src="https://img.icons8.com/nolan/64/react-native.png"/></a>
+   <a align="center"><img src="https://img.icons8.com/nolan/64/visual-studio.png"/></a>
    <a align="center"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
-   <a align="middle"><img src="https://img.icons8.com/nolan/64/copyright.png"/></a>
+   <a align="center"><img src="https://img.icons8.com/nolan/64/react-native.png"/></a>
    <a align="middle"><img src="https://img.icons8.com/nolan/64/javascript.png"/></a>
    <a align="middle"><img src="https://img.icons8.com/nolan/64/css-filetype.png"/></a>
    <a align="middle"><img src="https://img.icons8.com/nolan/64/html-5.png"/></a>
    <a align="middle"><img src="https://img.icons8.com/nolan/64/python.png"/></a>
    <a align="middle"><img src="https://img.icons8.com/nolan/64/mysql.png"/></a>
    <a align="middle"><img src="https://img.icons8.com/nolan/64/sublime-text-new-logo.png"/> </a>
+   <a align="middle"><img src="https://img.icons8.com/nolan/64/copyright.png"/></a>
+   <a align="center"><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
 </div>
 
 <div align="center">
