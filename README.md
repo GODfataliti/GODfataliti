@@ -26,7 +26,6 @@
 </div>
 
 <ul>
-   <li>👉 Currenly in the last year of Civil Engineering in Computer Science 😊</li>
    <li>👉 Learning Python & JavaScript 💼</li>
 </ul>
 
