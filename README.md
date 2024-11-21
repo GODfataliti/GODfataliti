@@ -13,6 +13,8 @@
 
 
 <a href="#Fataliti-title">
+<!--    ![GODfataliti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GODfataliti&theme=omni&hide_border=true) -->
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GODfataliti&theme=omni&hide_border=true" alt="FATALITI STATS" align="left" />
    <img src="https://github-readme-stats.vercel.app/api?username=GODfataliti&count_private=true&show_icons=true&theme=radical" alt="FATALITI STATS" align="right" />
 </a>
 <div>
