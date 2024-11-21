@@ -11,12 +11,12 @@
 -->
 
 
-
-<a href="#Fataliti-title">
-<!--    ![GODfataliti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GODfataliti&theme=omni&hide_border=true) -->
+<div>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GODfataliti&theme=omni&hide_border=true" alt="FATALITI STATS" align="left" />
-   <img src="https://github-readme-stats.vercel.app/api?username=GODfataliti&count_private=true&show_icons=true&theme=radical" alt="FATALITI STATS" align="right" />
-</a>
+   <a href="#Fataliti-title">
+      <img src="https://github-readme-stats.vercel.app/api?username=GODfataliti&count_private=true&show_icons=true&theme=radical" alt="FATALITI STATS" align="right" />
+   </a>
+</div>
 <div>
    <h3><img width="35" src="https://img.icons8.com/nolan/64/working-with-a-laptop.png"/>Currently working on: </h3>
    <a src="https://github.com/"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
