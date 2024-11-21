@@ -11,14 +11,23 @@
 -->
 
 
-<div>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GODfataliti&theme=omni&hide_border=true" alt="FATALITI STATS" align="left" />
+<div align="center">
+   <a href="#Fataliti-title"> 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GODfataliti&theme=omni&hide_border=true" alt="FATALITI STATS" align="left" />
+   </a>
    <a href="#Fataliti-title">
       <img src="https://github-readme-stats.vercel.app/api?username=GODfataliti&count_private=true&show_icons=true&theme=radical" alt="FATALITI STATS" align="right" />
    </a>
 </div>
-<div>
-   <h3><img width="35" src="https://img.icons8.com/nolan/64/working-with-a-laptop.png"/>Currently working on: </h3>
+
+<div align="center">
+   
+</div>
+
+<div align="center">
+   <h3>
+      <img width="35" src="https://img.icons8.com/nolan/64/working-with-a-laptop.png"/>Currently working on: 
+   </h3>
    <a src="https://github.com/"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
    <a src="https://www.javascript.com/"><img src="https://img.icons8.com/nolan/64/javascript.png"/></a>
    <a src="https://reactjs.org/docs/getting-started.html"><img src="https://img.icons8.com/nolan/64/react-native.png"/></a>
@@ -27,9 +36,9 @@
    <a src="https://www.python.org/"> <img src="https://img.icons8.com/nolan/64/python.png"/> </a>
 </div>
 
-<ul>
+<!-- <ul>
    <li>👉 Learning Python & JavaScript 💼</li>
-</ul>
+</ul> -->
 
 ----
 <div align="center">
